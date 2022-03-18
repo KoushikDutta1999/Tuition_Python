@@ -10,6 +10,14 @@
     - print the 5th last number
     - print every even index
   - List_6 Python Program to append an element in a List
+  - List_7 Python Program to insert element between a List
+  - List_8 Python Program to show the Length of the List
+  - List_9 Python Program to Append 2 Lists
+  - List_10 Python Program to remove an element from a List
+  - List_11 Python Program to add all element from list
+  - List_12 Python Program to Print all elements divisible by M and N in the List
+  - List_13 Python Program to Remove duplicate element in a list
+  - List_14 Python Program to find an element in a given List
 - Python Program to show Fibonacci Series using Recursion
 - Python Program to show Fibonacci Series
 - Python Program to LCM Least Common Multiple
