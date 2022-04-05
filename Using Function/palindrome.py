@@ -1,3 +1,5 @@
+# Python Program to check Pallindrome or Not using Function
+
 def pallindrome(n):
     temp = n
     rem = 0

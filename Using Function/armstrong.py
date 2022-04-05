@@ -1,3 +1,5 @@
+# Python Program to print Armstrong or Not using Function
+
 def arm(n):
     temp = n
     sum = 0

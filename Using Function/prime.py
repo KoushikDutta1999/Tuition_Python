@@ -1,3 +1,5 @@
+# Python Program to check Prime or Not using Function
+
 def prime(n1):
     if(n1==1):
         return "not prime"

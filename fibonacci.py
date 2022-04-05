@@ -1,3 +1,5 @@
+# Python Program to print Fibonacci Series
+
 n = int(input("Enter the term "))
 n1, n2 = 0, 1
 count = 0

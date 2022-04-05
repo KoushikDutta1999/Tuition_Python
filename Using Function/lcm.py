@@ -1,3 +1,5 @@
+# Python Program to print LCM using Function
+
 def lcm(x,y):
     if x > y:
         p = x
