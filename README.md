@@ -1,5 +1,20 @@
 # Tuition_Python
 
+- Dictionary
+  - Python Program to show a Dictionary
+  - Python Program to show a Dictionary user input
+  - Python Program to print sum or dictionary values
+  - Python Program to show a maximum and minumum values in a Dictionary
+  - Python Program to show an element key exist or not in a Dictionary
+  - Python Program to merge two Dictionaries
+- Exam_05042022
+  - Python Program to create two lists with even and odd numbers from a list
+  - Python program to use list as a stack
+  - Python Program to find the sum of digits of a number until its a single digit number (O/P -> 129 -> 3)
+  - Python Program to find the number of occurrences of item 50 from a tuple
+  - Python Program to swap two tuples
+  - Python Program to print Fibonacci series using Recursion
+  - Python Program to merge two dictionaries
 - Python Programs on List
   - List_1 Python Program to show a List static
   - List_2 Python Program to show a List by user input
@@ -18,6 +33,10 @@
   - List_12 Python Program to Print all elements divisible by M and N in the List
   - List_13 Python Program to Remove duplicate element in a list
   - List_14 Python Program to find an element in a given List
+- Tuple
+  - 
+- Using Function
+  - 
 - Python Program to show Fibonacci Series using Recursion Function
 - Python Program to show Fibonacci Series
 - Python Program to LCM Least Common Multiple
