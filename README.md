@@ -34,7 +34,9 @@
   - List_13 Python Program to Remove duplicate element in a list
   - List_14 Python Program to find an element in a given List
 - Tuple
-  - 
+  - Python Program to remove duplicates from Tuple
+  - Python Program to remove 2nd element using 'del' function
+  - Python Program to remove 2nd element using 'remove' function
 - Using Function
   - 
 - Python Program to show Fibonacci Series using Recursion Function
