@@ -41,6 +41,10 @@
   - Python Program to print Armstrong or Not using Function
   - Python Program to print Fibonacci series using Recursion
   - Python Program to print LCM using Function
+  - Python Program to check even odd using Function
+  - Python Program to check Pallindrome or Not using Function
+  - Python Program to check Perfect or Not using Function
+  - Python Program to check Prime or Not using Function
 - Python Program to show Fibonacci Series using Recursion Function
 - Python Program to show Fibonacci Series
 - Python Program to LCM Least Common Multiple
