@@ -33,6 +33,12 @@
   - List_12 Python Program to Print all elements divisible by M and N in the List
   - List_13 Python Program to Remove duplicate element in a list
   - List_14 Python Program to find an element in a given List
+- String
+  - Python Program to print index of a character in a string
+  - Python Program to print strings with Join
+  - Python Program to print the reverse of the string and Check if string is palindrome or not
+  - Python Program to find an alphabet in a string and show how many times it's there
+  - Python Program to print string in upper or lower case
 - Tuple
   - Python Program to remove duplicates from Tuple
   - Python Program to remove 2nd element using 'del' function
