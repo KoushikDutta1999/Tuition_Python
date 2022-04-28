@@ -52,11 +52,14 @@
   - Python Program to check Perfect or Not using Function
   - Python Program to check Prime or Not using Function
 - Python Program to find a number is armstrong or not
+- Python Program to Print Diamond Pattern
+- Python Program to Print Diamond Pattern
 - Python Program to compare two equal sized lists and print the first index where they differ
 - Python Program to move all duplicate values in a list to the end of the list
 - Python Program to show Fibonacci Series using Recursion Function
 - Python Program to show Fibonacci Series
 - Python Program to read two lists num and denum which contain the numerators and denominators of same fractions at the respective indexes. Then display the smallest fraction along with its index.
+- Python Program to Find the factor of a number and store those in a List then show Prime numbers
 - Python Program to display the maximum and minimum values from the specified range of indexes of list.
 - Python Program to LCM Least Common Multiple
 - Python Program to show odd even
