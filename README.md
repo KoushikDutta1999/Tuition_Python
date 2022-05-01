@@ -33,6 +33,12 @@
   - List_12 Python Program to Print all elements divisible by M and N in the List
   - List_13 Python Program to Remove duplicate element in a list
   - List_14 Python Program to find an element in a given List
+- Series
+  - Python Program to print the sum of Exponential Seres Expansion
+    - 1+x/1!+x/2!+x/3!+x/4!..............n
+  - Python Program to show sum of this series --  x + x^2/2 + x^3/3 + . . . . . . . . x^n/n
+  - Python Program to print the sum of Sine Seres Expansion
+    - sin(x) = x+x^3/3!+x^5/5!+x^7/7!+x^9/9!.............n
 - String
   - Python Program to print index of a character in a string
   - Python Program to print strings with Join
@@ -64,4 +70,3 @@
 - Python Program to LCM Least Common Multiple
 - Python Program to show odd even
 - Python Program to check prime number using Function
-- Python Program to show sum of this series --  x + x^2/2 + x^3/3 + . . . . . . . . x^n/n
