@@ -36,7 +36,8 @@
 - Series
   - Python Program to print the sum of Exponential Seres Expansion
     - 1+x/1!+x/2!+x/3!+x/4!..............n
-  - Python Program to show sum of this series --  x + x^2/2 + x^3/3 + . . . . . . . . x^n/n
+  - Python Program to show sum of this series
+    - x + x^2/2 + x^3/3 + . .  . . . x^n/n
   - Python Program to print the sum of Sine Seres Expansion
     - sin(x) = x+x^3/3!+x^5/5!+x^7/7!+x^9/9!.............n
 - String
