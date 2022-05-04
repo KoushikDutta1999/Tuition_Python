@@ -33,6 +33,14 @@
   - List_12 Python Program to Print all elements divisible by M and N in the List
   - List_13 Python Program to Remove duplicate element in a list
   - List_14 Python Program to find an element in a given List
+  - List_15 Python Program to find the second largest number in a list
+  - List_16 Python Program to find the duplicates in a list
+  - List_17 Python Program to print the sum and average of a list
+  - List_18 Python Program to Remove an element from a list
+  - List_19 Python Program to Replace an element from a list if found
+  - List_20 Python Program to merge 2 List
+  - List_21 Python Program to enter a list containing numbers between 1 anad 12, then replace all of the entries in the list that are greater than 10 with 10
+  - List_22 Python Program to enter a list of strings then create a new list that consists of those strings with their first characters removed
 - Series
   - Python Program to print the sum of Exponential Seres Expansion
     - 1+x/1!+x/2!+x/3!+x/4!..............n
@@ -71,3 +79,5 @@
 - Python Program to LCM Least Common Multiple
 - Python Program to show odd even
 - Python Program to check prime number using Function
+- Python Program using Constructor to print Full Pyramid, Full Inverted Pyramid and Diamond Pattern
+
