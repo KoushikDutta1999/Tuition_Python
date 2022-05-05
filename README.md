@@ -80,4 +80,3 @@
 - Python Program to show odd even
 - Python Program to check prime number using Function
 - Python Program using Constructor to print Full Pyramid, Full Inverted Pyramid and Diamond Pattern
-
